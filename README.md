@@ -1,8 +1,9 @@
-import os
+<img width="752" alt="Screenshot 2024-06-18 at 2 55 49 AM" src="Screenshot%202024-06-18%20at%202.55.49%E2%80%AFAM.png">import os
 import cv2
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 import random
+
 
 # Function to load and preprocess the dog image
 def load_dog_image(image_path):
